@@ -13,7 +13,7 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome | Matrícula |
+| Nome | RA |
 |---|---|
 | Isaac Ferreira da Silva | [2320041] |
 | Deivison Santana Calazans | [2320233] |
