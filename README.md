@@ -13,12 +13,12 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome | RA |
+| Nome | Matrícula |
 |---|---|
-| Isaac Ferreira da Silva | [INSERIR RA] |
-| Deivison Santana Calazans | [INSERIR RA] |
-| Gabriel Moreira Borges | [INSERIR RA] |
-| Miguel Mariano | [INSERIR RA] |
+| Isaac Ferreira da Silva | [2320041] |
+| Deivison Santana Calazans | [2320233] |
+| Gabriel Moreira Borges | [2321124] |
+| Miguel Mariano | [2321500] |
 
 ---
 
